@@ -9,6 +9,13 @@ HR has questions.
 #### If you are not on a phone, You should use the less stripped down version: https://github.com/EthanIchiro/Hot_Dog_Game-Godot/ (click to play is there) 
 ---
 
+## Install
+1. Download the **.apk**
+2. Open it on your Android phone
+3. Allow install from that source if asked
+4. Open the app
+5. Immediately make a terrible decision
+
 ## What is this
 
 A tiny chaos game where you must protect a delicious hot dog using:

@@ -6,7 +6,7 @@ For your **phone**.
 Congratulations.
 The cannon has entered your pocket.
 HR has questions.
-#### If you are not on a phone, WHY ARE YOU USING STRIPPED DOWN? https://github.com/EthanIchiro/Hot_Dog_Game-Godot/ (click to play is there) 
+#### If you are not on a phone, You should use the less stripped down version: https://github.com/EthanIchiro/Hot_Dog_Game-Godot/ (click to play is there) 
 ---
 
 ## What is this
